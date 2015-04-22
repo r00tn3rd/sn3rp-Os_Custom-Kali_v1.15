@@ -48,7 +48,7 @@
 
 # INSTALLATION INSTRUCTIONS:
 
-# Download Link: https://mega.co.nz/#F!4JNjAbAB!SHpnm-GjsfhvAuFOoxW5-
+# Download Link: https://mega.co.nz/#F!4JNjAbAB!SHpnm-GjsfhvAuFOoxW5-g
 
 # To install sn3rp-Os you need to run this command in the terminal:
 
