@@ -1,9 +1,5 @@
-# Sn3rp-Os_Custom-Kali_v1.5
-TinFoilSec Presents: sn3rp-Os_Custom-Kali_v.1.15
-Download Link: https://mega.co.nz/#F!4JNjAbAB!SHpnm-GjsfhvAuFOoxW5-g#  
-
-#README
-
+#  README
+#  
 #  Copyright 2015 root <root@sn3rp-os>
 #  
 #  This program is free software; you can redistribute it and/or modify
@@ -35,14 +31,14 @@ Download Link: https://mega.co.nz/#F!4JNjAbAB!SHpnm-GjsfhvAuFOoxW5-g#
 #  Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 #  MA 02110-1301, USA.
 #
-# 
-# ___________.__       ___________    .__.__    _________
-# \__    ___/|__| ____ \_   _____/___ |__|  |  /   _____/ ____   ____
-#   |    |   |  |/    \ |    __)/  _ \|  |  |  \_____  \_/ __ \_/ ___\
-#   |    |   |  |   |  \|     \(  <_> )  |  |__/        \  ___/\  \___
-#   |____|   |__|___|  /\___  / \____/|__|____/_______  /\___  >\___  >
-#                   \/     \/                        \/     \/     \/ TM
-
+# README FILE
+#__________.__      ___________    .__.__    _________             
+#\__    ___|__| ____\_   _________ |__|  |  /   _____/ ____  ____  
+#  |    |  |  |/    \|    __)/  _ \|  |  |  \_____  \_/ __ _/ ___\ 
+#  |    |  |  |   |  |     \(  <_> |  |  |__/        \  ___\  \___ 
+#  |____|  |__|___|  \___  / \____/|__|____/_______  /\___  \___  >
+#                  \/    \/                        \/     \/    \/ TM
+#
 # Presents:
 # Sn3rp-Os_Custom-Kali_v.1.15
 # Created by: @oo0sn3rp0oo
@@ -54,9 +50,6 @@ Download Link: https://mega.co.nz/#F!4JNjAbAB!SHpnm-GjsfhvAuFOoxW5-g#
 # To install sn3rp-Os you need to run this command in the terminal:
 
 # refractainstaller-gui
-
-
-
 
 # *Special Note:
 # Refractainstaller will create and mount a folder named target on
@@ -86,5 +79,3 @@ Download Link: https://mega.co.nz/#F!4JNjAbAB!SHpnm-GjsfhvAuFOoxW5-g#
 # n1tr0g3n, Reaperz73, TopHatSec, Anonymous, @An0nKn0wledge, mazdra7,
 # riseup.net, autistici.org and of course everyone at Offensive_Security.
 # Enjoy!
-
-
