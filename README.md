@@ -75,8 +75,12 @@
 # /dev/sda5	swap	swap	defaults	0	0
 # Now 'ctrl c' in refractainstaller's terminal to stop it and reboot
 # all done
-# PS: Dnscrypt and Tor both autostart.
 
+# Also you will need to create a folder for postgresql to store logs with the 
+# following cmd;
+# mkdir /var/log/postgresql/
+
+# PS: Dnscrypt and Tor both autostart.
 
 #### Special Thanks to;
 # n1tr0g3n, Reaperz73, TopHatSec, Anonymous, @An0nKn0wledge, mazdra7,
